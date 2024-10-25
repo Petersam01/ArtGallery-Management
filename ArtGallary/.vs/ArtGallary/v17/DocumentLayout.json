@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Petersam Mkansi\\Desktop\\ArtGallery\\ArtGallery-Management\\ArtGallary\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1CCCC14F-02AD-4BE8-878E-31D63A6F0670}|ArtGallary.csproj|c:\\users\\petersam mkansi\\desktop\\artgallery\\artgallery-management\\artgallary\\controllers\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCCC14F-02AD-4BE8-878E-31D63A6F0670}|ArtGallary.csproj|solutionrelative:controllers\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1CCCC14F-02AD-4BE8-878E-31D63A6F0670}|ArtGallary.csproj|c:\\users\\petersam mkansi\\desktop\\artgallery\\artgallery-management\\artgallary\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{1CCCC14F-02AD-4BE8-878E-31D63A6F0670}|ArtGallary.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
@@ -22,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ArtGalleryApi.cs",
               "DocumentMoniker": "C:\\Users\\Petersam Mkansi\\Desktop\\ArtGallery\\ArtGallery-Management\\ArtGallary\\Controllers\\ArtGalleryApi.cs",
               "RelativeDocumentMoniker": "Controllers\\ArtGalleryApi.cs",
@@ -35,12 +39,11 @@
               "ViewState": "AgIAADcGAAAAAAAAAAAAADIGAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T18:19:30.1Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Login.aspx",
               "DocumentMoniker": "C:\\Users\\Petersam Mkansi\\Desktop\\ArtGallery\\ArtGallery-Management\\ArtGallary\\Login.aspx",
               "RelativeDocumentMoniker": "Login.aspx",
@@ -53,12 +56,29 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\Petersam Mkansi\\Desktop\\ArtGallery\\ArtGallery-Management\\ArtGallary\\Controllers\\Settings.cs",
+              "RelativeDocumentMoniker": "Controllers\\Settings.cs",
+              "ToolTip": "C:\\Users\\Petersam Mkansi\\Desktop\\ArtGallery\\ArtGallery-Management\\ArtGallary\\Controllers\\Settings.cs",
+              "RelativeToolTip": "Controllers\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:51:17.512Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Login.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Petersam Mkansi\\Desktop\\ArtGallery\\ArtGallery-Management\\ArtGallary\\Login.aspx.cs",
               "RelativeDocumentMoniker": "Login.aspx.cs",
@@ -66,12 +86,7 @@
               "RelativeToolTip": "Login.aspx.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAAAE8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T18:19:32.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "WhenOpened": "2024-10-25T18:19:32.29Z"
             }
           ]
         }
