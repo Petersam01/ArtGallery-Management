@@ -1,0 +1,108 @@
+body {
+    overflow-x: hidden;
+    font-family: 'Montserrat', sans-serif;
+    color: #0563c0;
+  }
+  
+/*nav bar*/
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.navbar{
+    background-image: linear-gradient(to right,white,white);
+    padding: 0 !important;
+}
+.navbar-brand img
+{
+    height: 70px;
+    width: 100px;
+    padding-left: 20px;
+    margin-left: 2rem;
+}
+.navbar-nav li
+{
+    padding: 0 10px;
+}
+.nav-link {
+    margin-top: 1.7rem;
+    
+  }
+.nav-link.active,
+.nav-link:hover {
+  color: red!important;
+}
+.navbar-nav a
+{
+    color: #4b1f64 !important;
+    font-weight: 500;
+    float: right;
+    text-align: left;
+}
+
+.fa-bars
+{
+    font-size: 30px !important;
+}
+.navbar-toggler
+{
+    outline: none !important;
+}
+/*  END OF NAV */
+/*  nabber */
+#aboutbanner3
+{
+    background-image: linear-gradient(to right, rgb(50, 50, 56),rgb(77, 100, 109));
+    color: white;
+    padding-top: 5%;
+}
+.about-title
+{
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+
+/*   end content */
+.icon-container {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+.feature-box {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f8f9fa;
+}
+
+
+/*   body  */
+#aboutPin{
+    margin-top: 6%;
+}
+.content{
+    margin-top: -10%;
+}
+.about{
+    font-weight: 300px;
+    font-size: 42;
+}
+.firstp{
+    margin-top: 3%;
+}
+
+.img-about
+{
+    width: 12rem;
+    height: 12rem;
+    margin-top: 1rem;
+    margin-right: 0px;
+    object-fit: cover;
+}
+.speaker{
+    margin-top: -3%;
+}
